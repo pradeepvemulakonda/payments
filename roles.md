@@ -23,6 +23,8 @@
 |     Clearing System          |     Specifies the system which plays a role in the clearing process.       |
 |     Party                    |     Entity involved in a payment.                                          |
 
+
+# Role vs Participants
 |      Participants                 |      BusinessRole      Financial    Institution     |      BusinessRole      Clearing System     |      BusinessRole      Party     |
 |-----------------------------------|-----------------------------------------------------|--------------------------------------------|----------------------------------|
 |     Debtor                        |                                                     |                                            |     X                            |
