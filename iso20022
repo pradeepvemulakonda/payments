@@ -1,1 +1,11 @@
+# ISO20022
+
+## Instruction Messages 
+- CustomerCreditTransferInitiation	pain.001 -- 'This message is used to request movement of funds from the debtor account to a creditor;'
+- CustomerDirectDebitInitiation	pain.008 -- 'This message is used to request the collection(s) of funds from one or more debtor's accounts for a creditor.'
+
+## Related Messages
+- CustomerPaymentReversal	pain.007 -- 'The message is used to reverse a payment previously executed'
+- CustomerPaymentStatusReport 	pain.002 -- 'This message is used to inform on the positive or negative status of an instruction (either single or file) and to report on a pending instruction.'
+
 
