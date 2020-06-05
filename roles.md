@@ -22,3 +22,19 @@
 |     Financial Institution    |     Organisation established primarily to provide   financial services.    |
 |     Clearing System          |     Specifies the system which plays a role in the clearing process.       |
 |     Party                    |     Entity involved in a payment.                                          |
+
+|      Participants                 |      BusinessRole      Financial    Institution     |      BusinessRole      Clearing System     |      BusinessRole      Party     |
+|-----------------------------------|-----------------------------------------------------|--------------------------------------------|----------------------------------|
+|     Debtor                        |                                                     |                                            |     X                            |
+|     Creditor                      |                                                     |                                            |     X                            |
+|     Ultimate   Debtor             |                                                     |                                            |     X                            |
+|     Ultimate   Creditor           |                                                     |                                            |     X                            |
+|     Debtor   Agent                |     X                                               |     X                                      |                                  |
+|     Creditor   Agent              |     X                                               |     X                                      |                                  |
+|     Forwarding   Agent            |     X                                               |     X                                      |                                  |
+|     Initiating   Party            |                                                     |                                            |     X                            |
+|     Account   Owner               |     X                                               |                                            |     X                            |
+|     Account   Servicer            |     X                                               |     X                                      |                                  |
+|     Payment   Clearing Agent      |     X                                               |     X                                      |                                  |
+|     Payment   Settlement Agent    |     X                                               |     X                                      |                                  |
+|     Intermediary   Agent          |     X                                               |     X                                      |                                  |
