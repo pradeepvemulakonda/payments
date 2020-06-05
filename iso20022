@@ -8,4 +8,4 @@
 - CustomerPaymentReversal	pain.007 -- 'The message is used to reverse a payment previously executed'
 - CustomerPaymentStatusReport 	pain.002 -- 'This message is used to inform on the positive or negative status of an instruction (either single or file) and to report on a pending instruction.'
 
-
+## 
