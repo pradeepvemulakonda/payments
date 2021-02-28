@@ -1,5 +1,5 @@
 # CustomerCreditTransferInitiation - Version 10
-Usage
+#### Usage
 The CustomerCreditTransferInitiation message can contain one or more customer credit transfer
 instructions.
 The CustomerCreditTransferInitiation message is used to exchange:
@@ -8,6 +8,7 @@ The CustomerCreditTransferInitiation message is used to exchange:
 institution;
 - Payment transactions that result in an electronic cash transfer to the creditor account or in the
 emission of a cheque.
+
 The message can be used in a direct or a relay scenario:
 - In a direct scenario, the message is sent directly to the debtor agent. The debtor agent is the account
 servicer of the debtor.
@@ -17,7 +18,9 @@ debtor agent.
 The message can also be used by an initiating party that has authority to send the message on behalf
 of the debtor. This caters for example for the scenario of a payments factory initiating all payments on
 behalf of a large corporate.
+
 The CustomerCreditTransferInitiation message can be used in domestic and cross-border scenarios.
+
 The CustomerCreditTransferInitiation message must not be used by the debtor agent to execute the
 credit transfer instruction(s). The FIToFICustomerCreditTransfer message must be used instead.
 
