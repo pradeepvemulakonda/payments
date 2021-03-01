@@ -24,6 +24,9 @@ The CustomerCreditTransferInitiation message can be used in domestic and cross-b
 The CustomerCreditTransferInitiation message must not be used by the debtor agent to execute the
 credit transfer instruction(s). The FIToFICustomerCreditTransfer message must be used instead.
 
+## Structure
+![image](https://lucid.app/publicSegments/view/8f2834ef-150b-4dfa-a9a8-4ee54d399235/image.jpeg)
+
 ## GroupHeader:
 Set of characteristics shared by all individual transactions included in the message.
 ### Attributes
