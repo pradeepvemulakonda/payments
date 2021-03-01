@@ -33,3 +33,7 @@ Set of characteristics shared by all individual transactions included in the mes
 | MessageIdentification      | String(max:35) | $1600 ||
 | col 2 is      | centered      |   $12 ||
 | zebra stripes | are neat      |    $1 ||
+
+#### Structure
+![image](https://lucid.app/publicSegments/view/4bdffec3-fff8-4e65-af5d-7dab9e529084/image.jpeg)
+
