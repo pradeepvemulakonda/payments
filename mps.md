@@ -24,3 +24,8 @@ The following can done using MPS
 ![image](https://user-images.githubusercontent.com/9028357/114328566-6060ae00-9b80-11eb-9c68-e9adccbcc809.png)
 
 
+## Advantages for customers:
+- Customers can digitally authorise, view, modify and manage the mandates they have given for third parties to initiate payments from their bank account.
+- Easily move their mandate payment arrangements from one bank account to another account at a different financial institution.
+
+![image](https://user-images.githubusercontent.com/9028357/114328804-08767700-9b81-11eb-9e1a-2c9e1f246904.png)
