@@ -29,3 +29,9 @@ The following can done using MPS
 - Easily move their mandate payment arrangements from one bank account to another account at a different financial institution.
 
 ![image](https://user-images.githubusercontent.com/9028357/114328804-08767700-9b81-11eb-9e1a-2c9e1f246904.png)
+
+Context diagram
+![image](https://user-images.githubusercontent.com/9028357/114328934-758a0c80-9b81-11eb-8025-c34a77f7e1e8.png)
+
+
+
