@@ -30,8 +30,12 @@ The following can done using MPS
 
 ![image](https://user-images.githubusercontent.com/9028357/114328804-08767700-9b81-11eb-9e1a-2c9e1f246904.png)
 
-Context diagram
+## Context diagram
 ![image](https://user-images.githubusercontent.com/9028357/114328934-758a0c80-9b81-11eb-8025-c34a77f7e1e8.png)
+
+## Payment initiation context diagram
+![image](https://user-images.githubusercontent.com/9028357/114330794-d582b200-9b85-11eb-9506-d7bffe99a0a4.png)
+
 
 
 
