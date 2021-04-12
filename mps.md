@@ -14,3 +14,13 @@ THe following use cases are supported by MPS
 
 ![image](https://user-images.githubusercontent.com/9028357/114328253-57231180-9b7f-11eb-81c1-3198329b42d6.png)
 
+The following can done using MPS
+
+- A better alternative to direct debit (where the account owner/debtor does not have direct control over the mandate)
+- A way to initiate onbehalf of payments from APP store
+- Any on-behalf of payments, example a cloud provider managing payroll etc.
+- Supports account based thirdparty payment initiation by establishing persistent customer authorisation.
+
+![image](https://user-images.githubusercontent.com/9028357/114328566-6060ae00-9b80-11eb-9c68-e9adccbcc809.png)
+
+
