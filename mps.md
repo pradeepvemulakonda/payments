@@ -36,6 +36,7 @@ The following can done using MPS
 ## Payment initiation context diagram
 ![image](https://user-images.githubusercontent.com/9028357/114330794-d582b200-9b85-11eb-9506-d7bffe99a0a4.png)
 
-
+## Parties Involved in MPS
+![image](https://user-images.githubusercontent.com/9028357/114330952-3ad6a300-9b86-11eb-937c-143107619e0e.png)
 
 
